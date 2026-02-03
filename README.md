@@ -78,6 +78,8 @@ The system maintains context between agent calls using LangGraph's `StateGraph`:
 - Risk and opportunity analysis
 - Clean, desktop-optimized UI
 
+> **⚠️ Note:** Stock prices and real-time stock information are sourced from **IndianAPI** ([indianapi.in](https://indianapi.in)). The accuracy and availability of stock data is entirely dependent on this third-party API. For best results with Indian stocks (NSE/BSE), ensure you have a valid IndianAPI key configured.
+
 ## Tech Stack
 
 | Component | Technology |
