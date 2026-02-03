@@ -8,7 +8,7 @@ A multi-agent stock intelligence system that provides real-time stock analysis u
 
 ## Live Demo
 
-> **[View Live App](YOUR_STREAMLIT_LINK_HERE)** ← Add your deployment link here
+> **[View Live App](https://stockpulse-ai1.streamlit.app/)** ← Deployed link here
 
 ---
 
